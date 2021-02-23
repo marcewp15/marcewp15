@@ -1,6 +1,12 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=buefy)](https://github.com/marcewp15/github-readme-stats)
+
+
+<a href="https://github.com/marcewp15/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/marcewp15/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=buefy" />
+</a>
 
 <!--
 **marcewp15/marcewp15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
