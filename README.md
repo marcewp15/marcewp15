@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Marcela's Banner](Banner/my_banner.gif)
 <a href="https://github.com/marcewp15/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy" />
 </a>
