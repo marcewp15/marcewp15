@@ -28,10 +28,10 @@
 ## 🌈 Github Stats:
 
 <a href="https://github.com/marcewp15/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/marcewp15/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=jolly" />
 </a>
 
 <!--
