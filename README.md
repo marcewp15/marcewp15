@@ -28,10 +28,10 @@
 ## 🌈 Github Stats:
 
 <a href="httphttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whiteom/marcewp15/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy" />
+  <img align="top" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/marcewp15/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=buefy" />
+  <img align="top" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcewp15&layout=compact&theme=buefy" />
 </a>
 
 <!--
