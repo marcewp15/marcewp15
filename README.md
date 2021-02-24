@@ -1,7 +1,6 @@
 <p align="center">
-  ![Marcela's Banner](Banner/my_banner.gif)
+  <img src="Banner/my_banner.gif">
 </p>
-
 
 ## Hi there 👋
 
