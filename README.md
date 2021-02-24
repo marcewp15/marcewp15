@@ -1,5 +1,6 @@
-![Marcela's Banner](Banner/my_banner.gif)
-
+<p align="center">
+  ![Marcela's Banner](Banner/my_banner.gif)
+</p>
 
 
 ## Hi there 👋
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+##
 
 <a href="httphttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whiteom/marcewp15/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcewp15&count_private=true&show_icons=true&theme=buefy" />
