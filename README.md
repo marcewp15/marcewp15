@@ -7,7 +7,10 @@
 👩‍💻  I am a software developer from Bogotá, Colombia.
 
 
-🌱  I am currently learning web development and looking for my first job in this field.
+🌱  I am currently learning web development and Salesforce.
+
+
+🔭 I’m currently working like DevBootcamp trainee of Salesforce at Jalasoft.
 
 
 💗 I am passionate about design, technology, crochet and macramé.
