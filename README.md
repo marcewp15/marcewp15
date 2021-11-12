@@ -10,7 +10,7 @@
 🌱  I am currently learning web development and Salesforce.
 
 
-🔭 I’m currently working like DevBootcamp trainee of Salesforce at Jalasoft.
+🔭 I’m currently working like WFM Executive in IGT Solutions Colombia.
 
 
 💗 I am passionate about design, technology, crochet and macramé.
