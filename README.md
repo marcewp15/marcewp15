@@ -7,10 +7,10 @@
 👩‍💻  I am a software developer from Bogotá, Colombia.
 
 
-🌱  I am currently learning web development and Salesforce.
+🌱  I am currently learning web development, Power Bi and SQL.
 
 
-🔭 I’m currently working like WFM Executive in IGT Solutions Colombia.
+🔭 I’m currently working like Reporting Analyst in IGT Solutions Colombia.
 
 
 💗 I am passionate about design, technology, crochet and macramé.
