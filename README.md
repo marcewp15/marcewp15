@@ -7,10 +7,13 @@
 👩‍💻  I am a software developer from Bogotá, Colombia.
 
 
-🌱  I am currently learning web development, Power Bi and SQL.
+🌱  I am currently learning web development, Power Bi, SQL and data analyst.
 
 
 🔭 I’m currently working like Reporting Analyst in IGT Solutions Colombia.
+
+
+👩‍💻 I am a student of Software Construction at Antonio Nariño University.
 
 
 💗 I am passionate about design, technology, crochet and macramé.
