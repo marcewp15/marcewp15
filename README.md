@@ -10,7 +10,7 @@
 🌱  I am currently learning web development, Power Bi, SQL and data analyst.
 
 
-🔭 I’m currently working like Reporting Analyst in IGT Solutions Colombia.
+🔭 I’m currently working like Data Tech Intern at Accenture Colombia.
 
 
 👩‍💻 I am a student of Software Construction at Antonio Nariño University.
