@@ -4,13 +4,13 @@
 
 ## Hi there 👋
 
-👩‍💻  I am a software developer from Bogotá, Colombia.
+👩‍💻  I am a Data Analyst from Bogotá, Colombia.
 
 
-🌱  I am currently learning web development, Power Bi, SQL and data analyst.
+🌱  I am currently learning Machine Learning, Power Bi, SQL data science and data analyst.
 
 
-🔭 I’m currently working like Data Tech Intern at Accenture Colombia.
+🔭 I’m currently working like Business Analyst I at Teleperformance.
 
 
 👩‍💻 I am a student of Software Construction at Antonio Nariño University.
